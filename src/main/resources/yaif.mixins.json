@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.plr.yaif.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "yaif.refmap.json",
+  "mixins": [
+    "MixinEntity"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

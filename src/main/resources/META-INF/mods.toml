@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+[[mods]]
+modId = "yaif"
+version = "${file.jarVersion}"
+displayName = "WhyAmIonFire"
+authors = [
+    "Ellivers",
+    "Tapio"
+]
+description = "Hides the obstructive fire overlay when it's not needed."
